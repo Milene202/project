@@ -18,12 +18,25 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-<img src="./assets/preview.png"  alt="Preview do projeto" />
+<img  src="./assets/preview.png"  alt="Preview do projeto" />
 </p>
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- HTML e css
+- github
 - JavaScript
+- Figma
+
+## Projeto
+O Deve links é um agregador de links para usar como cartão de visitas onlines.
+
+## layout
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/FHO6rINS0pE9h5LUbbMyM6/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=1437-191&p=f&t=5mvCiPW1oXBQEbJ3-0) É necessário ter conta no [figma](HTTPS://figma.com) para acessá-lo.
+
+## :memo: lincença
+Este projeto está sob a lincença do MIT
+
+Feito com amor by Rockeseat :wave: [Participe da nossa comunidade]
+(https://discord.gg/Rockeseat)
