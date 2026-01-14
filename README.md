@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## Projeto
-O Deve links é um agregador de links para usar como cartão de visitas onlines.
+O Dev links é um agregador de links para usar como cartão de visitas onlines.
 
 ## layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/FHO6rINS0pE9h5LUbbMyM6/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=1437-191&p=f&t=5mvCiPW1oXBQEbJ3-0) É necessário ter conta no [figma](HTTPS://figma.com) para acessá-lo.
